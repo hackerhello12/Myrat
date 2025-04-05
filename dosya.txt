@@ -1,1 +1,1 @@
-vless://6738d21a-46ab-410f-bd77-3050741a4b89@185.221.87.0:80?mode=auto&security=none&encryption=none&host=keshameshafred.tm&type=xhttp#NEDERLAND%20%F0%9F%87%B3%F0%9F%87%B1
+vless://932d4eac-4707-4493-8f45-ba93392e71e0@212.104.128.188:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rakki.hikosu.online&fp=chrome&type=ws&sni=rakki.hikosu.online#murat
