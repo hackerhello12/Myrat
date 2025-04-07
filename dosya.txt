@@ -1,1 +1,1 @@
-vless://932d4eac-4707-4493-8f45-ba93392e71e0@212.104.128.188:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rakki.hikosu.online&fp=chrome&type=ws&sni=rakki.hikosu.online#murat
+vless://ead5944a-c8c1-4f0f-8af3-cda7b822971f@94.141.101.18:18897?type=tcp&security=none#gj39n475
